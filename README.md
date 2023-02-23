@@ -1,4 +1,3 @@
-![logo](https://github.com/ceo7913/ceo7913/blob/main/h6f70szyude32.png)
 
 <h3 align="center">Korean prospective developer studying FrontEnd</h3>
 
