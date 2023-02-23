@@ -1,4 +1,4 @@
-![logo](https://github.com/ceo7913/ceo7913/blob/main/gitgubBanner.png)
+![logo](https://github.com/ceo7913/ceo7913/blob/main/coverPageBack2.png)
 <h1 align="center">I'm :) Lim JunWoo</h1>
 <h3 align="center">Korean prospective developer studying FrontEnd</h3>
 
