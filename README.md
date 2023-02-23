@@ -1,7 +1,7 @@
 ![logo](https://github.com/ceo7913/ceo7913/blob/main/backdrop.png)
 <h3 align="center">Korean prospective developer studying FrontEnd</h3>
 
-<img align="right" alt="coding" width="400" src="https://velog.velcdn.com/images%2Fdydalsdl1414%2Fpost%2F4e16a233-6b33-4e16-a879-585683ada0d5%2Fr_600209_Buxux.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceo7913&label=Profile%20views&color=0e75b6&style=flat" alt="ceo7913" /> </p>
 
