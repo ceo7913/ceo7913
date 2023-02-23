@@ -1,4 +1,4 @@
-![logo](https://github.com/ceo7913/ceo7913/blob/main/cover3.png)
+![logo](https://github.com/ceo7913/ceo7913/blob/main/backdrop.png)
 <h3 align="center">Korean prospective developer studying FrontEnd</h3>
 
 <img align="right" alt="coding" width="400" src="https://velog.velcdn.com/images%2Fdydalsdl1414%2Fpost%2F4e16a233-6b33-4e16-a879-585683ada0d5%2Fr_600209_Buxux.gif">
