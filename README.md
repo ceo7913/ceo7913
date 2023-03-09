@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceo7913&label=Profile%20views&color=0e75b6&style=flat" alt="ceo7913" /> </p>
 
-- 📝 I regularly write articles on [https://ceo7913.tistory.com/](https://ceo7913.tistory.com/)
+- 📝 NEWSIC project Link ! [http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
 
 - 📫 How to reach me **jooon7913@gmail.com**
 
