@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceo7913&label=Profile%20views&color=0e75b6&style=flat" alt="ceo7913" /> </p>
 
-- 👉 Hackathon YouTube Link ! [https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
+- 👉 Hackathon demonstration video Link ! [https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
+
+- 👻 Paranoia demonstration video Link ! [https://www.youtube.com/watch?v=wNs3FnObXH8](https://www.youtube.com/watch?v=wNs3FnObXH8)
 
 - 📝 NEWSIC project Link ! [http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
 
