@@ -1,4 +1,3 @@
-![logo](https://github.com/ceo7913/ceo7913/blob/main/backdrop.png)
 <h3 align="center">Korean prospective developer studying FrontEnd</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
