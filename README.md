@@ -6,7 +6,7 @@
 
 - 👉 Hackathon demonstration video Link ! [https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
 
-- 👻 Paranoia demonstration video Link ! [https://www.youtube.com/watch?v=wNs3FnObXH8](https://www.youtube.com/watch?v=wNs3FnObXH8)
+- 👻 Paranoia demonstration video Link ! [https://youtu.be/ASwnUpL3pC8](https://youtu.be/ASwnUpL3pC8)
 
 - 📝 NEWSIC project Link ! [http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
 
