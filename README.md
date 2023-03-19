@@ -4,13 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceo7913&label=Profile%20views&color=0e75b6&style=flat" alt="ceo7913" /> </p>
 
-- 👉 Hackathon demo YouTube Link ! [https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
+👉 Hackathon demo YouTube Link !  
+  >[https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
+  
 
-- 👻 Paranoia demo YouTube Link ! [https://youtu.be/ASwnUpL3pC8](https://youtu.be/ASwnUpL3pC8)
+👻 Paranoia demo YouTube Link ! 
+  >[https://youtu.be/ASwnUpL3pC8](https://youtu.be/ASwnUpL3pC8)
+  
 
-- 📝 NEWSIC project front demo Link ! [http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
+📝 NEWSIC project front demo Link ! 
+  >[http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
+  
 
-- 📫 How to communicate with me  **jooon7913@gmail.com**
+📫 How to communicate with me  
+  >**jooon7913@gmail.com**
+
+
 <div align="center">
 <h3>Connect with me</h3>
 <p >
