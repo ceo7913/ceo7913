@@ -42,9 +42,6 @@
  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
  </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceo7913&layout=compact&theme=midnight-purple&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ceo7913&show_icons=true&theme=midnight-purple)
 
  </div>
 
