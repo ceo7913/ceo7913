@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceo7913&label=Profile%20views&color=0e75b6&style=flat" alt="ceo7913" /> </p>
+
 
 >👉 Hackathon demo YouTube Link !  
   >>[https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
