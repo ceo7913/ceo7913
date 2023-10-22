@@ -3,7 +3,7 @@
 
 나뿐만 아니라 남들도 이해할 수 있는 글을 쓰려고 노력하고 있습니다.</p><br/>
 
-<img align="right" alt="coding" width="450" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
 >📃 [TIL(Today I Learned)저장소 보러가기](https://youtu.be/ASwnUpL3pC8)
 
