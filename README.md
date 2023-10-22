@@ -19,7 +19,10 @@
 
 <br/><div align="center">
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">* Stack</h3>
+
+***
+
 <div align="left">
 
 ### Main
