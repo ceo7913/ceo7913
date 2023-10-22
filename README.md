@@ -1,15 +1,17 @@
-<h2 align="center">Korean FrontEnd developer</h2> <br/>
+<h2 align="left">Korean FrontEnd developer</h2> <br/>
+<p>학습한 지식을 글로 정리하는 걸 좋아하는 프론트엔드 개발자입니다.
+
+나뿐만 아니라 남들도 이해할 수 있는 글을 쓰려고 노력하고 있습니다.</p><br/>
 
 <img align="right" alt="coding" width="450" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
->👻 Paranoia Project
-  >>[Paranoia demo YouTube](https://youtu.be/ASwnUpL3pC8)
+>📃 [TIL(Today I Learned)저장소 보러가기](https://youtu.be/ASwnUpL3pC8)
 
->👉 Hackathon Project  
-  >>[Hackathon demo YouTube](https://www.youtube.com/watch?v=xsvH_dClMfg)
+>👻 [Paranoia demo YouTube Link](https://youtu.be/ASwnUpL3pC8)
 
->🎹 NEWSIC Project
-  >>[NEWSIC Project Github](https://github.com/ceo7913/Business-Agreement-Project-Newsic)
+>👉 [Hackathon demo YouTube Link](https://www.youtube.com/watch?v=xsvH_dClMfg)
+
+>🎹 [NEWSIC Project 저장소 보러가기](https://github.com/ceo7913/Business-Agreement-Project-Newsic)
 
 >📫 How to communicate with me  
   >>**ceo7913@naver.com**
