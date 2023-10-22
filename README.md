@@ -1,4 +1,4 @@
-<h3 align="center">Korean prospective developer studying FrontEnd</h3> 
+<h2 align="center">Korean FrontEnd developer</h2> <br/>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
