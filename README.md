@@ -2,15 +2,14 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e47d7adfbrfp0ymzmjj7u9gdj8acyy889v0qvf2r24r&rid=giphy.gif&ct=g">
 
-
+>👻 Paranoia demo YouTube Link ! 
+  >>[Paranoia demo YouTube](https://youtu.be/ASwnUpL3pC8)
 
 >👉 Hackathon demo YouTube Link !  
-  >>[https://www.youtube.com/watch?v=xsvH_dClMfg](https://www.youtube.com/watch?v=xsvH_dClMfg)
-  
+  >>[Hackathon demo YouTube](https://www.youtube.com/watch?v=xsvH_dClMfg)
 
->👻 Paranoia demo YouTube Link ! 
-  >>[https://youtu.be/ASwnUpL3pC8](https://youtu.be/ASwnUpL3pC8)
-  
+>🎹 NEWSIC Project Github Link!
+  >>[NEWSIC Project Github](https://github.com/ceo7913/Business-Agreement-Project-Newsic)
 
 >📫 How to communicate with me  
   >>**ceo7913@naver.com**
