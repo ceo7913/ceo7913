@@ -1,4 +1,4 @@
-<h2 align="left">Korean FrontEnd developer</h2> <br/>
+<h2 align="left">Action FrontEnd developer</h2> <br/>
 <p>학습한 지식을 글로 정리하는 걸 좋아하는 프론트엔드 개발자입니다.
 
 나뿐만 아니라 남들도 이해할 수 있는 글을 쓰려고 노력하고 있습니다.</p><br/>
