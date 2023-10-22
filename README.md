@@ -12,12 +12,8 @@
   >>[https://youtu.be/ASwnUpL3pC8](https://youtu.be/ASwnUpL3pC8)
   
 
->📝 NEWSIC project front demo Link ! 
-  >>[http://ceo7913.github.io/NEWSIC-Project-Front/](http://ceo7913.github.io/NEWSIC-Project-Front/)
-  
-
 >📫 How to communicate with me  
-  >>**jooon7913@gmail.com**
+  >>**ceo7913@naver.com**
 
 
 <div align="center">
