@@ -4,7 +4,7 @@
 
 >👻 [Paranoia demo YouTube Link](https://youtu.be/ASwnUpL3pC8)
 
->👉 [Hackathon demo YouTube Link](https://www.youtube.com/watch?v=xsvH_dClMfg)
+>👉 [Hackathon demo YouTube Link](https://www.youtube.com/watch?v=HV27LlqpVKs)
 
 >🎹 [NEWSIC Project 저장소 보러가기](https://github.com/ceo7913/Business-Agreement-Project-Newsic)
 
